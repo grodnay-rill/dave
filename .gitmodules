@@ -10,9 +10,6 @@
 [submodule "src/eca_a9"]
 	path = src/eca_a9
 	url = git@github.com:uuvsimulator/eca_a9.git
-[submodule "src/dockwater"]
-	path = src/dockwater
-	url = git@github.com:Field-Robotics-Lab/dockwater.git
 [submodule "src/marine_msgs"]
 	path = src/marine_msgs
 	url = git@github.com:apl-ocean-engineering/marine_msgs.git
