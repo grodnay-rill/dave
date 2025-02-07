@@ -1,0 +1,27 @@
+[submodule "src/uuv_manipulators"]
+	path = src/uuv_manipulators
+	url = git@github.com:field-robotics-lab/uuv_manipulators
+[submodule "src/nps_uw_multibeam_sonar"]
+	path = src/nps_uw_multibeam_sonar
+	url = git@github.com:field-robotics-lab/nps_uw_multibeam_sonar
+[submodule "src/rexrov2"]
+	path = src/rexrov2
+	url = git@github.com:uuvsimulator/rexrov2.git
+[submodule "src/eca_a9"]
+	path = src/eca_a9
+	url = git@github.com:uuvsimulator/eca_a9.git
+[submodule "src/dockwater"]
+	path = src/dockwater
+	url = git@github.com:Field-Robotics-Lab/dockwater.git
+[submodule "src/marine_msgs"]
+	path = src/marine_msgs
+	url = git@github.com:apl-ocean-engineering/marine_msgs.git
+[submodule "src/ds_msgs"]
+	path = src/ds_msgs
+	url = git@github.com:Field-Robotics-Lab/ds_msgs.git
+[submodule "src/ds_sim"]
+	path = src/ds_sim
+	url = git@github.com:Field-Robotics-Lab/ds_sim.git
+[submodule "src/uuv_simulator"]
+	path = src/uuv_simulator
+	url = git@github.com:field-robotics-lab/uuv_simulator
